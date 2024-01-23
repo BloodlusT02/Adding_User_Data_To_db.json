@@ -12,7 +12,7 @@ Error handling for failed submissions.
 # Setup Instructions
 
 1. Clone the Repository:
-git clone // link
+git clone https://github.com/BloodlusT02/Adding_User_Data_To_db.json
 
 2. Install Dependencies:
 No external dependencies are required for this project.
